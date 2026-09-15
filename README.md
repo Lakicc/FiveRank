@@ -12,6 +12,8 @@ numbers the people being ranked cannot edit.
 
 ---
 
+![Preview](https://youtu.be/EQPmfar_jsU)
+
 ## About this repository
 
 This is a production platform, not a template, a theme, or a tutorial build.
