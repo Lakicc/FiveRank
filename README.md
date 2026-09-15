@@ -48,6 +48,8 @@ FiveRank ranks by what is measurable.
 ![ServerProfile](https://i.imgur.com/Q3xk7PY.png)
 ![Resources](https://i.imgur.com/3JJrxTS.png)
 ![Dashboard](https://i.imgur.com/RSkUuCs.png)
+![Ingamepanel](https://i.imgur.com/TnuCjkX.jpeg)
+
 
 ## Tech stack
 
