@@ -43,11 +43,11 @@ FiveRank ranks by what is measurable.
   server means something.
 
 ## Screenshots
-https://i.imgur.com/QBlH982.png
-https://i.imgur.com/4txb9dN.png
-https://i.imgur.com/Q3xk7PY.png
-https://i.imgur.com/3JJrxTS.png
-https://i.imgur.com/RSkUuCs.png
+![Hero](https://i.imgur.com/QBlH982.png)
+![Servers](https://i.imgur.com/4txb9dN.png)
+![ServerProfile](https://i.imgur.com/Q3xk7PY.png)
+![Resources](https://i.imgur.com/3JJrxTS.png)
+![Dashboard](https://i.imgur.com/RSkUuCs.png)
 
 ## Tech stack
 
