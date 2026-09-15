@@ -12,7 +12,7 @@ numbers the people being ranked cannot edit.
 
 ---
 
-![Preview](https://youtu.be/EQPmfar_jsU)
+https://youtu.be/EQPmfar_jsU
 
 ## About this repository
 
